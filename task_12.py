@@ -17,4 +17,4 @@ print("g1= " + str(g1)+str(d))
 print("t2= " + str(t2)+str(d))
 print("g2= " + str(g2)+str(d))
 
-print("The distance between these points is: "+str(r)+str(d))
+print("The distance between these points is: " + str(r) + "km")
