@@ -1,17 +1,24 @@
-run = 500
-run_sum = 0
-marathon = 0
+a = 500
+sum_x = 0
+n = 1
 
-for x in range(1,31):
-	run = round(run * 1.1)
-	run_sum = run + run_sum
+day_30 = round(a*((1 + 10/100)**30))
+print(f"Day 30: {day_30}m")
 
-	if run_sum > 42000:
-		marathon = round(42000 / (run_sum / 30))
+while True:
 
-print("Day 30: " + str(run) + "m")
-print(f"After {marathon} days you've exceeded marathon distance(42km)")
+	n = n + 1
+	an = round(500*((1 + 10/100)**n))
+	if n >= 30:
+		break
+	
+for x in range(an):
+	a = a * 1.1 
+	sum_x = round(sum_x + a)
+	if sum_x >= 42000:
+		break
 
+print(f"days to exceed marathon: {x} ({sum_x}m)")
 
 
 
