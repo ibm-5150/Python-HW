@@ -18,7 +18,7 @@ for x in range(an):
 	if sum_x >= 42000:
 		break
 
-print(f"days to exceed marathon: {x} ({sum_x}m)")
+print(f"Days to exceed marathon: {x} ({sum_x}m)")
 
 
 
