@@ -1,7 +1,6 @@
 import random
 
 print("               GUESS A NUMBER                  ")
-print("\n@1999 - 2020 'Vios Games' . All rights reserved")
 print("\n-----------------------------------------------")
 
 user_name = input("\nInsert your name: ")
