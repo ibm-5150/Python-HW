@@ -1,4 +1,4 @@
-k = int(input("Enter amount of characters to delete in file: "))
+k = int(input("Enter amount of characters to delete in each file line: "))
 file_in = open('task_4.txt','r')
 file_out = open('task_4_out.txt','w')
 lines = file_in.readlines()
