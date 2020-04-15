@@ -10,7 +10,9 @@ for _ in range(8):
 print(matrix)
 
 """
-5 x 5 => 25 : 8 
+92 total solutions;
+
+5 x 5 
 
 x 0 x 0 x
 0 x x x 0
@@ -18,7 +20,7 @@ x x 1 x x
 0 x x x 0
 x 0 x 0 x
 
-8 x 8 => 64 : 36
+8 x 8 
 - = 0
 
 - - - x - - - x
@@ -29,3 +31,4 @@ x x x 1 x x x x
 - - x x x - - -
 - x - x - x - -
 x - - x - - x -
+"""
