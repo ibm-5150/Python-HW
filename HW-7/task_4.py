@@ -10,7 +10,7 @@ for _ in range(8):
 print(matrix)
 
 """
-92 total solutions;
+92 total solutions; https://en.wikipedia.org/wiki/Eight_queens_puzzle
 
 5 x 5 
 
