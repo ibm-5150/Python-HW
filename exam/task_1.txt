@@ -1,0 +1,31 @@
+1. Numbers (int, float, double...)
+   Text (string)
+   Boolean (True, False)
+   Dictionary
+   List
+   Tuple
+
+2. a = 5
+   print(float(a))
+
+3. a = "a\nb\x1f\000d"
+   print(len(a))
+
+   Amount of symbols: 6 
+
+4. .append(), extend(), reverse(), pop(), remove(), del list_name([x:x]), changing value - list_name[x] = y;
+
+5. JSON
+
+6. Instantly;
+
+7. None;
+
+8. LEGB = Local, Enclosed, Global, Built-in;
+
+9. 
+
+10. raise is used in try...except method to forcibly call an Error and omit it (to not shut down the program);
+
+
+Part5
