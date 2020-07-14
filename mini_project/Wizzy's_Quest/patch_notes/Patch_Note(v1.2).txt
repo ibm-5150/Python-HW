@@ -2,7 +2,7 @@ new features:
     -added heart system instead of lifebar for playable character
     -added healing item(cherry):
         -works only on playable character
-        -after picking up, increases hp by +1
+        -after picking up increases hp by +1
         -also adds 1 heart if it was lost for playable character(on the top left corner)
         -cherry doesn't add any hp/hearts if character's hp is at max(3), but it adds +1 to score
 bugs:
