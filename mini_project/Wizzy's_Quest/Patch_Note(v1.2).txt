@@ -1,6 +1,0 @@
--added heart system instead of lifebar for playable character;
--added healing item(cherry):
-    -works only on playable character;
-    -after picking up, increases hp by +1
-    -also adds 1 heart if it was lost for playable character(on the top left corner)
-    -cherry does 'nothing' if playable character's hp is at maximum(3)
