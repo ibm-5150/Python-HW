@@ -220,7 +220,7 @@ class fruit(object):
 			win.blit(self.cherry, (self.x, self.y))
 			#cherry hitbox
 			self.hitbox = (self.x, self.y, 30, 33)
-			pygame.draw.rect(win, (255,0,0), self.hitbox, 2)
+			#pygame.draw.rect(win, (255,0,0), self.hitbox, 2)
 		else:
 			self.visible == False
 
